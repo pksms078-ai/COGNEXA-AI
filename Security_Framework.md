@@ -166,5 +166,76 @@ Business Model:
 Current Status:
 MVP Development Phase
 
+Markdown
+# Security Policy
+
+## Supported Versions
+
+Version 1.0
+
+---
+
+## Reporting Vulnerabilities
+
+Send reports to:
+
+security@cognexa.ai
+
+---
+
+## Security Controls
+
+- JWT Authentication
+- Role Based Access Control
+- HTTPS Encryption
+- Audit Logging
+- Access Monitoring
+
+---
+
+## Future Enhancements
+
+- MFA
+- SSO
+- Zero Trust Architecture
+RELEASE_NOTES.md
+Markdown
+# Cognexa MVP Release Notes
+
+Version 1.0
+
+Release Date:
+2026
+
+---
+
+Features
+
+✓ Workflow Intelligence
+
+✓ Risk Identification
+
+✓ Decision Assistance
+
+✓ Dashboard
+
+✓ API Framework
+
+✓ Security Framework
+
+✓ Deployment Layer
+
+---
+
+Future Features
+
+- Predictive Intelligence
+
+- Enterprise Integrations
+
+- Workflow Automation
+
+- Strategic Planning Engine
+
 Vision:
 To become the intelligence layer for enterprise operations and decision-making.
