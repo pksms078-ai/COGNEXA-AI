@@ -1,48 +1,40 @@
 Markdown
-# Workflow Intelligence Engine
+# Decision Intelligence Engine
 
-## Purpose
+## Objective
 
-Analyze organizational workflows and identify:
-
-- Delays
-- Bottlenecks
-- Redundancies
-- Escalation Risks
+Support decision-making using contextual analysis.
 
 ---
 
-## Inputs
+## Decision Layers
 
-- Tasks
-- Projects
-- Deadlines
-- Team Assignments
-- Operational Events
+1. Situation Analysis
 
----
+2. Risk Evaluation
 
-## Outputs
+3. Impact Assessment
 
-- Workflow Health Score
-- Delay Prediction
-- Priority Recommendations
-- Resource Optimization Suggestions
+4. Recommendation Generation
+
+5. Human Validation
 
 ---
 
-## Sample Output
+## Example
 
-Workflow: Procurement
+Question:
 
-Status: Moderate Risk
+Should Project X be delayed?
 
-Issues:
+Analysis:
 
-- Approval Delay
-- Vendor Response Delay
+Risk Level: Medium
+
+Cost Impact: Low
+
+Customer Impact: High
 
 Recommendation:
 
-Reduce approval chain from 4 levels to 2 levels.
-
+Continue with revised resource allocation.
